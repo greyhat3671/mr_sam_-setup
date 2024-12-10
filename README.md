@@ -1,4 +1,4 @@
-https://github.com/greyhat3671/mr_sam_-setup.git
+git clone https://github.com/greyhat3671/mr_sam_-setup.git
 
 cd mr_sam_setup
 
